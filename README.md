@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/Zsearcher.png" alt="Technical Cynite">
+  <img src="https://telegra.ph/file/e210eac540c8f8ae0f54a.jpg" alt="🤖AUTO FILTER ROBOT🤖">
 </p>
 <h1 align="center">
-  <b>[This Repo Is Not Working Please Use This One](https://github.com/CyniteOfficial/Auto-Filter)
+  <b>[Please Join My Telegram Group](https://t.me/Mallu_Movie_Hub_Group)
 </h1>
-<a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
+<a href="https://t.me/CINEMA_CITY_UPDATES">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
